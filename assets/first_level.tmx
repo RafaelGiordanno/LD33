@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="48" height="32" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tilset" tilewidth="16" tileheight="16">
+  <image source="tileset.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Back" width="48" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKGr8v1LrsdQcNVUVVVVVdVXDy9WxgE=
+  </data>
+ </layer>
+ <layer name="Collidable" width="48" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1bEKACAIQEH7/59ubWmIUAvuwC3wTTYiYiRNhao9WfT30t9Lf6+b/upbv2s4ebv2vtL/8/8LAAAAvG8CBZMAQQ==
+  </data>
+ </layer>
+ <layer name="Front" width="48" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAPBmGAAAAQ==
+  </data>
+ </layer>
+</map>
